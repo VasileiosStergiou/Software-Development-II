@@ -1,0 +1,37 @@
+Name:  Nikos Zisis
+AFM: 130456094
+Status: Single
+Income: 40000.0
+
+Receipts:
+
+Receipt ID: 16
+Date: 12/12/12
+Kind: Entertainment
+Amount: 500.0
+Company: hahauwi
+Country: 2ewfg
+City: 32ft3
+Street: 32f2fg
+Number: 1
+
+Receipt ID: 10
+Date: 12/3/1998
+Kind: Travel
+Amount: 2000.0
+Company: gsgsga
+Country: sjsjdkw
+City: jejwejka
+Street: jejwekql
+Number: 110
+
+Receipt ID: 6
+Date: 12/12/12
+Kind: Health
+Amount: 500.0
+Company: jsjqq2
+Country: jd23wfd
+City: 21de1
+Street: 21ed
+Number: 110
+

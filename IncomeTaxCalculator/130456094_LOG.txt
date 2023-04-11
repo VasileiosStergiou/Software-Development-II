@@ -1,0 +1,12 @@
+<Name> Nikos Zisis </Name>
+<AFM> 130456094 </AFM>
+<Income> 40000.0 </Income>
+<BasicTax> 2400.44 </BasicTax>
+<TaxIncrease> 192.0352 </TaxIncrease>
+<TotalTax> 2592.4752 </TotalTax>
+<Receipts> 3 </Receipts>
+<Entertainment> 500.0 </Entertainment>
+<Basic> 500.0 </Basic>
+<Travel> 6783.828 </Travel>
+<Health> 0.0 </Health>
+<Other> 0.0 </Other>

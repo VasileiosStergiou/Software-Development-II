@@ -1,0 +1,36 @@
+<Name> Apostolos Zarras </Name>
+<AFM> 123456789 </AFM>
+<Status> Married Filing Jointly </Status>
+<Income> 22570.0 </Income>
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 10/5/1996 </Date>
+<Kind> Basic </Kind>
+<Amount> 251.0 </Amount>
+<Company> Parta </Company>
+<Country> Jakusa </Country>
+<City> Drama </City>
+<Street> Fukosima </Street>
+<Number> 5 </Number>
+
+<ReceiptID> 5 </ReceiptID>
+<Date> 2/2/2019 </Date>
+<Kind> Travel </Kind>
+<Amount> 100.0 </Amount>
+<Company> sfsdf </Company>
+<Country> sdfssdf </Country>
+<City> sdfsd </City>
+<Street> sdfs </Street>
+<Number> 1 </Number>
+
+<ReceiptID> 6 </ReceiptID>
+<Date> 11/12/2021 </Date>
+<Kind> Basic </Kind>
+<Amount> 4535.0 </Amount>
+<Company> wer </Company>
+<Country> wer </Country>
+<City> wer </City>
+<Street> wer </Street>
+<Number> 4 </Number>
+

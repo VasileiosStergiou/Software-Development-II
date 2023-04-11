@@ -1,0 +1,27 @@
+Name: Apostolos Zarras
+AFM: 130456093
+Status: Married Filing Jointly
+Income: 22570.0
+
+Receipts: 
+
+Receipt ID: 6
+Date: 12/12/2022
+Kind: Travel
+Amount: 550.0
+Company: jwkj2
+Country: kswk2
+City: jdj33
+Street: jkkjqwk
+Number: 0
+
+Receipt ID: 3
+Date: 10/3/2014
+Kind: Health
+Amount: 500.0
+Company: Dentist
+Country: Greece
+City: Ioannina
+Street: Lamprou
+Number: 20
+
